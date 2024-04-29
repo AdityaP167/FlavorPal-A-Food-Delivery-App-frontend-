@@ -25,6 +25,14 @@ FlavorPal Delivery is a sleek and user-friendly food delivery app that allows us
 
 ![Screenshot 2](/screenshots/screenshot2.png)
 
+![Screenshot 3](/screenshots/screenshot3.png)
+
+![Screenshot 4](/screenshots/screenshot4.png)
+
+![Screenshot 5](/screenshots/screenshot5.png)
+
+![Screenshot 6](/screenshots/screenshot6.png)
+
 
 
 
