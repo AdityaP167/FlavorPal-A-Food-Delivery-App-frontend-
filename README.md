@@ -3,6 +3,7 @@
 </p>
 
 FlavorPal Delivery is a sleek and user-friendly food delivery app that allows users to browse through various menu categories, filter food items based on their preferences, add items to the cart, place orders, and make payments seamlessly.
+Get the demo of the website [here.](https://flavorpal.netlify.app/)
 
 ## Features
 
